@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F8A5F816-6209-4720-A6EE-A0123AAD0C36"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4DD54EDC-5D05-4EF2-828D-C3E23B2DFDDA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnitTestingAssignmentTests/UnitTestForNetworkManagerClass.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "testFetchProducts()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4DD54EDC-5D05-4EF2-828D-C3E23B2DFDDA - 36186b74f1bfa2c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTestingAssignmentTests.UnitTestForNetworkManagerClass.testFetchProducts() -&gt; ()"
+                  moduleName = "UnitTestingAssignmentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luka/Desktop/Assignments/Assignment24/UnitTestingAssignment/UnitTestingAssignmentTests/UnitTestForNetworkManagerClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "4DD54EDC-5D05-4EF2-828D-C3E23B2DFDDA - b09f48162425107"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Optional&lt;Swift.Array&lt;UnitTestingAssignment.Product&gt;&gt;, Swift.Error&gt;) -&gt; () in UnitTestingAssignmentTests.UnitTestForNetworkManagerClass.testFetchProducts() -&gt; ()"
+                  moduleName = "UnitTestingAssignmentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luka/Desktop/Assignments/Assignment24/UnitTestingAssignment/UnitTestingAssignmentTests/UnitTestForNetworkManagerClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "4DD54EDC-5D05-4EF2-828D-C3E23B2DFDDA - 608b1087100e2b3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;UnitTestingAssignment.ProductsResponse, Swift.Error&gt;) -&gt; () in UnitTestingAssignmentTests.UnitTestForNetworkManagerClass.testFetchProducts() -&gt; ()"
+                  moduleName = "UnitTestingAssignmentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luka/Desktop/Assignments/Assignment24/UnitTestingAssignment/UnitTestingAssignmentTests/UnitTestForNetworkManagerClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EEAF5CB6-1B9B-4525-AAD8-8163A35B49A3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnitTestingAssignmentTests/UnitTestForCartViewModelClass.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "181"
+            endingLineNumber = "181"
+            landmarkName = "testFetchProducts()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
